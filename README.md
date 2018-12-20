@@ -1,2 +1,2 @@
-# 高精度加减乘除及阶乘运算
-算是我写的第一个有点意思的程序吧，纪念一下，以后会更新，目标是实现高计算效率的计算器
+# High-precision Calculate
+My first a little bit intereting program. Honour of my coding life! Haha!
